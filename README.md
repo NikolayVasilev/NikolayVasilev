@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolayVasilev
 - 👀 I’m interested in Solutions Architecture
-- 🌱 I’m currently learning GraphQL and its applications
+- 🌱 I’m currently using GraphQL
 - 💞️ I’m looking to collaborate on you name it
 - 📫 How to reach me - nvasilev.me
 
